@@ -29,3 +29,9 @@ audio {
   left: 0;
   width: 100%;
 }
+
+img {
+  width: 300px;     /* Ajusta a largura da imagem para 300 pixels */
+  height: auto;     /* Mantém a proporção da imagem */
+}
+
